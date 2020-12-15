@@ -100,6 +100,7 @@ namespace DROPS
                 listBox1.Items.Add(e.Data.GetData(DataFormats.Text));
                 lb1 = false;
             }
+            // это пранк пацаны
         }
 
         
